@@ -11,9 +11,6 @@
   <a href="https://github.com/BiscuitDevelopment/SkyblockAddons/blob/master/LICENSE" target="_blank">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-56bcd3" />
   </a>
-  <a href="https://discord.gg/PqTAEek" target="_blank">
-    <img alt="discord" src="https://img.shields.io/discord/450878205294018560?color=56bcd3&label=discord" />
-  </a>
   <a href="https://twitter.com/bisccut" target="_blank">
     <img alt="twitter" src="https://img.shields.io/twitter/follow/bisccut?style=social" />
   </a>
