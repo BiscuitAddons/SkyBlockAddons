@@ -2,13 +2,13 @@
 <h1 align="center">SkyblockAddons</h1>
 
 <p align="center">
-  <a href="https://github.com/BiscuitDevelopment/SkyblockAddons/releases" target="_blank">
+  <a href="https://github.com/BiscuitAddons/SkyblockAddons/releases" target="_blank">
     <img alt="release" src="https://img.shields.io/github/v/release/BiscuitDevelopment/SkyblockAddons?color=56bcd3" />
   </a>
-  <a href="https://github.com/BiscuitDevelopment/SkyblockAddons/releases" target="_blank">
+  <a href="https://github.com/BiscuitAddons/SkyblockAddons/releases" target="_blank">
     <img alt="downloads" src="https://img.shields.io/github/downloads/BiscuitDevelopment/SkyblockAddons/total?color=56bcd3" />
   </a>
-  <a href="https://github.com/BiscuitDevelopment/SkyblockAddons/blob/master/LICENSE" target="_blank">
+  <a href="https://github.com/BiscuitAddons/SkyblockAddons/blob/master/LICENSE" target="_blank">
     <img alt="license" src="https://img.shields.io/badge/License-MIT-56bcd3" />
   </a>
   <a href="https://twitter.com/bisccut" target="_blank">
